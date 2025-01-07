@@ -3,6 +3,10 @@ ML4Science Assignment
 
 *Problem statement*: Given an image (and its label value) predict the sum of the digits in the image. 
 
+**DEADLINE for submission:**
+- Preliminary version by 10pm on 08-Jan-2025 (34% weight-age) to perform baseline using standard CNN.
+- Final version due by 10pm on 15-Jan-2025 (66% weight-age): implement your 'own' model and compare to baseline above.
+
 1. You can train using any model (FCNN, CNN, RNN etc etc)
 2. Training data and labels are given. [See DL-Project for the data; data files are "data*.npy" and label files are "lab*.npy" and an load_data.py illustrates how to access data and labels]
 3. Additional data can be taken from the internet too to train the model. 
